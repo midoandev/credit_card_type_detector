@@ -106,6 +106,7 @@ Map<String, Set<Pattern>> cardNumPatternDefaults = {
   },
   TYPE_JCB: {
     Pattern(const ['3528', '3589']),
+    Pattern(const ['3337', '3338']),
     Pattern(const ['2131']),
     Pattern(const ['1800']),
   },
